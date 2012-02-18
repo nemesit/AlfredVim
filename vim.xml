@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <update>
 	<version>1.0</version>
-	<url>http://myriadvisuals.com/extensions/vim.alfredextension</url>
+	<url>https://raw.github.com/nemesit/Vim-Alfred-Extension/master/vim.alfredextension</url>
 	<comments>Release</comments>
 </update>
