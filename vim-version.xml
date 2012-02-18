@@ -2,4 +2,5 @@
 <update>
 	<version>1.5</version>
 	<url>https://raw.github.com/nemesit/Vim-Alfred-Extension/master/vim.alfredextension</url>
+	<comments>#Release and updater Integration</comments>
 </update>
